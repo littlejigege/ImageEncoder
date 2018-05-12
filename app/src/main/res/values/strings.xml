@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageEncoder</string>
+    <string name="encode">加密</string>
+    <string name="decode">解密</string>
+    <string name="encode_strategy">加密算法</string>
+    <string name="output_path">输出路径</string>
+    <string name="slot">密钥</string>
+</resources>
